@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@types/node": "^20.9.0",
+    "glob": "^10.3.10",
+    "typescript": "^5.2.2"
+  },
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "main": "index.js",
+  "name": "git-knowledge",
+  "scripts": {
+    "start": "npx -y tsx ./main.ts"
+  },
+  "version": "1.0.0"
+}
