@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "@octokit/rest": "^20.0.2",
-    "@types/node": "^20.9.0",
-    "glob": "^10.3.10",
+    "@octokit/rest": "^21.0.2",
+    "@types/node": "^22.7.4",
+    "glob": "^11.0.0",
     "typescript": "^5.2.2"
   },
   "description": "",
