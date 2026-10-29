@@ -1,5 +1,7 @@
 # GitHub Repository Crawler
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/gpt-git-knowledge)
+
 This utility, inspired by GPT-Crawler, is designed primarily for training custom OpenAI GPTs. It automates the process of fetching relevant files from specified GitHub repositories. These files can then be used as a dataset for training custom GPT models, allowing for more focused and domain-specific language understanding.
 
 - https://www.builder.io/blog/custom-gpt
